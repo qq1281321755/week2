@@ -32,7 +32,8 @@ export default {
       data :{
         val : "",
         age : "",
-      }
+      },
+      list : "123456789"
     }
   },
   computed:{
